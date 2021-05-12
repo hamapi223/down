@@ -35,7 +35,7 @@ if (os.ios) {
     // location.href = url;
 } else if (os.android) {
     // https://lnmv.lanzous.com/lnys
-    url = "https://lnmv.lanzous.com/lnys";
+    url = "https://lnmv.lanzoux.com/lnys";
 } else {
     url = null;
 }
